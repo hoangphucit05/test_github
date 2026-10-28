@@ -1,0 +1,7 @@
+.vs/
+.build-check/
+**/bin/
+**/obj/
+**/.verify-build/
+*.user
+*.suo
